@@ -1,6 +1,6 @@
 ---
 title: "scDECO"
-excerpt: "R package implementing flexible Bayesian models for estimating differential coexpression<br/><img src='/images/scdeco_logo.png'>"
+excerpt: "R package implementing flexible Bayesian models for estimating differential coexpression"
 collection: portfolio
 ---
 
