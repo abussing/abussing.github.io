@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Anderson Bussing"
+title                    : "Anderson's Homepage"
 title_separator          : "-"
 name                     : &name "Anderson Bussing"
-description              : &description "personal description"
+description              : &description "PhD student at University of South Carolina"
 url                      : https://abussing.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "abussing/abussing.github.io"
@@ -22,7 +22,7 @@ repository               : "abussing/abussing.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Anderson Bussing"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
