@@ -4,7 +4,7 @@ excerpt: "R package implementing flexible Bayesian models for estimating differe
 collection: portfolio
 ---
 
-Provides implementations for two different Bayesian models of differential co-expression. scdeco.cop() fits the bivariate Gaussian copula model from Zichen Ma, Shannon W. Davis, Yen-Yi Ho (2023), while scdeco.pg() fits the bivariate Poisson-Gamma model from Zhen Yang, Yen-Yi Ho (2022).
+Provides implementations for two different Bayesian models of differential co-expression. scdeco.cop() fits the bivariate Gaussian copula model from [https://doi.org/10.1111/biom.13701](https://doi.org/10.1111/biom.13701), while scdeco.pg() fits the bivariate Poisson-Gamma model from [https://doi.org/10.1111/biom.13457](https://doi.org/10.1111/biom.13457).
 
 [GitHub Repository](https://github.com/YenYiHo-Lab/scDECO)
 
