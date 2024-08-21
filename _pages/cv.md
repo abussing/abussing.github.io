@@ -33,14 +33,10 @@ Work experience
   
 Skills
 ======
-* R
-  * Projects: Masters thesis, scDECO package, FAST-CoExpress package 
-* Python
-  * Projects: Backtest framework for Profluent Trading
-* SQL
-  * Projects: Material requirements planning system simulator at General Electric (Houston)
-* VBA
-  * Projects: Live-updating build progress dashboards at General Electric (Jacksonville)
+* R -- Masters thesis, scDECO package, FAST-CoExpress package 
+* Python -- Backtest framework for Profluent Trading, American options pricer
+* SQL -- Material requirements planning system simulator at General Electric (Houston)
+* VBA -- Live-updating build progress dashboards at General Electric (Jacksonville)
 
 Publications
 ======
@@ -62,4 +58,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Captain of the 2021 3v3 U of SC intramural basketball champions
+* Leader of the 2015 UT aquaponics club. Managed $10k grant and 15-person team.
