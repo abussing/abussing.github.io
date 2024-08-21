@@ -21,7 +21,7 @@ repository               : "abussing/abussing.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "github_site_headshot.png"
   name             : "Anderson Bussing"
   pronouns         : # example: "she/her"  
   bio              : "Statistics PhD Student"
