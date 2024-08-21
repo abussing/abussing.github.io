@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Statistics, University of South Carolina, 2026 (expected)
+* M.S. in Statistical Mathematics, University of Puerto Rico, 2021
+* B.S. in Mechanical Engineering, University of Texas, 2016
+* B.S. in Mathematics, University of Texas, 2015
 
 Work experience
 ======
