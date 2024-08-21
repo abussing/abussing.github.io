@@ -33,12 +33,14 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* R
+  * Projects: Masters thesis, scDECO package, FAST-CoExpress package 
+* Python
+  * Projects: Backtest framework for Profluent Trading
+* SQL
+  * Projects: Material requirements planning system simulator at General Electric (Houston)
+* VBA
+  * Projects: Live-updating build progress dashboards at General Electric (Jacksonville)
 
 Publications
 ======
