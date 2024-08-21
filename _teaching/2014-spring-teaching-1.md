@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Pre-calculus II"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/2021-spring-teaching-1
+venue: "University of Puerto Rico, Mathematics"
+date: 2021-01-14
+location: "Mayagüez, Puerto Rico"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Instructor of record for pre-calculus II (MATE 3172) course, covering topics such as systems of linear equations, matrix algebra, sequences and series, trigonometric functions, and vectors. Course materials and lectures given in spanish.
