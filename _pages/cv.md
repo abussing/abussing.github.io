@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Statistics, University of South Carolina, 2026 (expected)
-* M.S. in Statistical Mathematics, University of Puerto Rico, 2021
+* M.S. in Mathematical Statistics, University of Puerto Rico, 2021
 * B.S. in Mechanical Engineering, University of Texas, 2016
 * B.S. in Mathematics, University of Texas, 2015
 
