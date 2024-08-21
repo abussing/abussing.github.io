@@ -14,7 +14,7 @@ Education
 * Ph.D in Statistics, University of South Carolina, 2026 (expected)
 * M.S. in Mathematical Statistics, University of Puerto Rico, 2021
 * B.S. in Mechanical Engineering, University of Texas, 2016
-* B.S. in Mathematics, University of Texas, 2015
+* B.S. in Pure Mathematics, University of Texas, 2015
 
 Work experience
 ======
