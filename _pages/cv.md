@@ -33,10 +33,11 @@ Work experience
   
 Skills
 ======
-* R -- Masters thesis, scDECO package, FAST-CoExpress package 
+* R -- scDECO package, FAST-CoExpress package, Master's thesis (goodness-of-fit testing in 2D)
 * Python -- Backtest framework for Profluent Trading, American options pricer
 * SQL -- Material requirements planning system simulator at General Electric (Houston)
 * VBA -- Live-updating build progress dashboards at General Electric (Jacksonville)
+* MATLAB -- Site selection for ocean thermal energy conversion in Puerto Rico
 * Spanish -- Professional working proficiency
 
 Publications
