@@ -37,6 +37,7 @@ Skills
 * Python -- Backtest framework for Profluent Trading, American options pricer
 * SQL -- Material requirements planning system simulator at General Electric (Houston)
 * VBA -- Live-updating build progress dashboards at General Electric (Jacksonville)
+* Spanish -- Professional working proficiency
 
 Publications
 ======
