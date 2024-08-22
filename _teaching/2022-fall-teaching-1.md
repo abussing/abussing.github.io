@@ -1,5 +1,5 @@
 ---
-title: "Elementary Statistics"
+title: "STAT 201"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2022-fall-teaching-1
