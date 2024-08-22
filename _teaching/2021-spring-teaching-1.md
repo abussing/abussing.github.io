@@ -1,5 +1,5 @@
 ---
-title: "Pre-calculus II"
+title: "MATE 3172"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2021-spring-teaching-1
