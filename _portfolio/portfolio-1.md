@@ -1,6 +1,6 @@
 ---
 title: "scDECO"
-excerpt: "R package implementing two different Bayesian models for estimating differential coexpression" <br/><img src='/images/500x300.png'>
+excerpt: "R package implementing two different Bayesian models for estimating differential coexpression <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
