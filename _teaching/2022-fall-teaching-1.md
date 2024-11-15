@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2022-fall-teaching-1
 venue: "University of South Carolina, Statistics"
-date: 2022-08-15, 2024-08-15
+date: 2024-08-15, 2022-08-15
 location: "Columbia, South Carolina"
 ---
 
