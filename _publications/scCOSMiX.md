@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/scCOSMiX
 excerpt: 'We introduce scCOSMiX, a mixed-effects framework for detecting differential coexpression and transcriptional interaction changes in multi-patient scRNA-seq data.'
-date: 2024-06-15
+date: 2025-07-17
 venue: 'Statistics in Medicine (accepted)'
 paperurl: 'https://github.com/YenYiHo-Lab/scCOSMiX'  # replace with DOI when available
 citation: 'Bussing A, Marra G, Fan D, Shinohara R, Tu D, Ho YY. scCOSMiX: A mixed-effects framework for differential coexpression and transcriptional interactions modeling in single-cell RNA-seq. <i>Statistics in Medicine</i>, accepted.'
