@@ -44,17 +44,12 @@ layout: default
               , {{ page.date | date: "%Y" }}
             {% endif %}
           </p>
-{% elsif page.venue and page.date %}
-  {% if page.venue contains "(accepted)" %}
-    <p>Accepted by <i>{{ page.venue | replace: " (accepted)", "" }}</i>, {{ page.date | date: "%Y" }}</p>
-  {% elsif page.venue == "In preparation" %}
-    <p><i>In preparation</i>, {{ page.date | date: "%Y" }}</p>
-  {% elsif page.venue == "Under review" %}
-    <p><i>Under review</i>, {{ page.date | date: "%Y" }}</p>
-  {% else %}
-    <p>Published in <i>{{ page.venue }}</i>, {{ page.date | date: "%Y" }}</p>
-  {% endif %}
-
+        {% elsif page.venue and page.date %}
+          {% if page.venue contains "(accepted)" %}
+            <p>Accepted by <i>{{ page.venue | replace: " (accepted)", "" }}</i>, {{ page.date | date: "%Y" }}</p>
+          {% else %}
+            <p>Published in <i>{{ page.venue }}</i>, {{ page.date | date: "%Y" }}</p>
+          {% endif %}
         {% elsif page.date %}
           <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
         {% endif %}    
