@@ -3,6 +3,7 @@ title: "A Risk Sharing Rule for Peer-to-peer (P2P) Insurance for Hail Losses via
 collection: publications
 category: manuscripts
 permalink: /publication/p2p-insurance
+excerpt: "Recent literature showed that the conditional expectation of individual loss given the total among n participants can serve as a risk sharing rule with many attractive properties. However, the results are established under independence, which is violated in many real applications, such as damages due to natural events."
 date: 2026-07-01
 venue: "In preparation"
 citation: 'Cai JY, Bussing A, Ma TF. A Risk Sharing Rule for Peer-to-peer (P2P) Insurance for Hail Losses via Conditional Expectation. In preparation, 2025.'
