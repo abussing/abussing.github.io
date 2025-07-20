@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/TIME-CoExpress
 date: 2025-07-07
-excerpt: "okay"
+excerpt: "Existing approaches for gene co-expression analysis assume a restrictive linear change of gene co-expression..."
 venue: "BMC Bioinformatics (accepted)"
 paperurl: 'https://www.biorxiv.org/content/10.1101/2025.01.23.634392v1' 
 citation: 'Yang S, Bussing A, Marra G, Brinkmeier ML, Camper SA, Davis SW, Ho YY. TIME-CoExpress: Temporal trajectory modeling of dynamic gene co-expression patterns using single-cell transcriptomics data. bioRxiv. 2025. doi:10.1101/2025.01.23.634392.'
