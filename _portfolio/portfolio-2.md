@@ -1,6 +1,6 @@
 ---
 title: "scCOSMiX"
-excerpt: "Github R package implementing scCOSMiX functions"
+excerpt: "Github R package implementing scCOSMiX method"
 collection: portfolio
 ---
 
