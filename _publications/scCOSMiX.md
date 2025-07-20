@@ -3,6 +3,7 @@ title: "scCOSMiX: A mixed-effects framework for differential coexpression and tr
 collection: publications
 category: manuscripts
 permalink: /publication/scCOSMiX
+excerpt: "Existing approaches for studying these dynamic interaction changes in scRNA-seq data do not address the multi-subject hierarchical design commonly considered in single-cell experiments..."
 date: 2025-07-17
 venue: "Statistics in Medicine (accepted)"
 citation: 'Bussing A, Marra G, Fan D, Shinohara R, Tu D, Ho YY. scCOSMiX: A mixed-effects framework for differential coexpression and transcriptional interactions modeling in single-cell RNA-seq. Statistics in Medicine. Accepted, 2025.'
