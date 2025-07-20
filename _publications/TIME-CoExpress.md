@@ -3,7 +3,6 @@ title: "TIME-CoExpress: Temporal Trajectory Modeling of Dynamic Gene Co-expressi
 collection: publications
 category: manuscripts
 permalink: /publication/TIME-CoExpress
-excerpt: 'We propose a copula-based approach with proper data-driven smoothing functions to model non-linear gene co-expression changes along cellular temporal trajectories.'
 date: 2025-07-07
 venue: "BMC Bioinformatics (accepted)"
 paperurl: 'https://www.biorxiv.org/content/10.1101/2025.01.23.634392v1' 
