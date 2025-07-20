@@ -1,5 +1,5 @@
 ---
-title: "FAST-CoExpress"
+title: "TIME-CoExpress"
 excerpt: "Github R package implementing TIME-CoExpress method"
 collection: portfolio
 ---
