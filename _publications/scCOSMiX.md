@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/scCOSMiX
 excerpt: 'The proposed copula-based approach allows the zero-inflation, marginal, and association parameters to be modeled as functions of covariates with subject-level random effects'
 date: 2025-07-17
-venue: 'Statistics in Medicine (accepted)'
+venue: "Statistics in Medicine (accepted)"
 citation: 'Bussing A, Marra G, Fan D, Shinohara R, Tu D, Ho YY. scCOSMiX: A mixed-effects framework for differential coexpression and transcriptional interactions modeling in single-cell RNA-seq. <i>Statistics in Medicine</i>, accepted.'
 ---
 
