@@ -51,7 +51,7 @@
           </p>
         {% elsif post.collection == 'publications' %}
           {% if post.venue contains "(accepted)" %}
-            <p>Accepted by <i>{{ post.venue | replace: " (accepted)", "" }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}</p>
+            <p>To appear in <i>{{ post.venue | replace: " (accepted)", "" }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}+</p>
           {% else %}
             <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}</p>
           {% endif %}
