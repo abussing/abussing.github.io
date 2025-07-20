@@ -5,7 +5,7 @@ type: "Undergraduate course"
 permalink: /teaching/2021-spring-teaching-1
 venue: "University of Puerto Rico, Mathematics"
 location: "Mayagüez, Puerto Rico"
-semesters: ["Fall 2020", "Spring 2021"]
+years_taught: "2020–2021"
 date: 2020-08-15  # Retained only for sorting purposes, not shown
 ---
 
