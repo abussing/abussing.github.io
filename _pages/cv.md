@@ -39,6 +39,12 @@ Skills
 * **VBA** -- Live-updating build progress dashboards at General Electric (Jacksonville)
 * **MATLAB** -- Site selection for ocean thermal energy conversion in Puerto Rico
 * **Spanish** -- Professional working proficiency
+
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
   
 Talks
 ======
