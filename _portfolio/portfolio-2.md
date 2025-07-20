@@ -1,9 +1,9 @@
 ---
-title: "FAST-CoExpress"
-excerpt: "R package implementing a fast frequentist model for estimating differential co-expression"
+title: "scCOSMiX"
+excerpt: "Github R package implementing scCOSMiX functions"
 collection: portfolio
 ---
 
-The FAST-CoExpress framework models the joint distribution of two random variables using a zero-inflated bivariate copula model where all parameters can be made dependent on covariates. Parameter estimation is achieved very quickly using frequentist framework.
+In the scCOSMiX framework, the joint expression of Y1, Y2 is modeled using a zero-inflated bivariate Gaussian copula with negative binomial marginals. Every parameter in the model can be modeled as a linear combination of relevant fixed and random effects via an appropriate one-to-one transformation.
 
-[GitHub Repository](https://github.com/YenYiHo-Lab/FAST-CoExpress)
+[GitHub Repository]([https://github.com/YenYiHo-Lab/scCOSMiX])
