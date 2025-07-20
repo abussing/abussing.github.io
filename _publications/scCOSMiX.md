@@ -6,10 +6,8 @@ permalink: /publication/scCOSMiX
 excerpt: 'The proposed copula-based approach allows the zero-inflation, marginal, and association parameters to be modeled as functions of covariates with subject-level random effects'
 date: 2025-07-17
 venue: 'Statistics in Medicine (accepted)'
-paperurl: 'https://github.com/YenYiHo-Lab/scCOSMiX'  # replace with DOI when available
 citation: 'Bussing A, Marra G, Fan D, Shinohara R, Tu D, Ho YY. scCOSMiX: A mixed-effects framework for differential coexpression and transcriptional interactions modeling in single-cell RNA-seq. <i>Statistics in Medicine</i>, accepted.'
 ---
 
-
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Advancements in single-cell RNA-sequencing (scRNA-seq) technologies generate a wealth of gene expression data that provide exciting opportunities for studying gene-gene interactions systematically at individual cell resolution. Genetic interactions within a cell are tightly regulated and often highly dynamic in response to internal cellular signals and external stimuli. Evidence of these dynamic interactions can often be observed in scRNA-seq data by examining conditional co-expression changes. Existing approaches for studying these dynamic interaction changes in scRNA-seq data do not address the multi-subject hierarchical design commonly considered in single-cell experiments. In this paper, we propose a MiXed-effects framework for differential COexpreSsion and transcriptional interaction modeling in Single-Cell RNA-seq (scCOSMiX) to account for the cell-cell correlation from the same individual. The proposed copula-based approach allows the zero-inflation, marginal, and association parameters to be modeled as functions of covariates with subject-level random effects, to enable analyses to be tailored to the data under consideration. A series of simulation analyses were conducted to evaluate and compare the performance of scCOSMiX to other existing approaches. We applied the proposed method to
+both droplet and plate-based scRNA-seq datasets GSE266919 and GSE108989 to illustrate its applicability across distinct scRNA-seq experimental protocols.
