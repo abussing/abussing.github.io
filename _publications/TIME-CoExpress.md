@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/TIME-CoExpress
 excerpt: 'We propose a copula-based approach with proper data-driven smoothing functions to model non-linear gene co-expression changes along cellular temporal trajectories. Our proposed approach provides flexibility to incorporate characteristics such as over-dispersion and zero-inflation rate observed in scRNAseq data into the modeling framework'
 date: 2025-07-07
-venue: 'BMC Bioinformatics (accepted)'
+venue: "BMC Bioinformatics (accepted)"
 paperurl: 'https://www.biorxiv.org/content/10.1101/2025.01.23.634392v1' 
 citation: 'Yang S, Bussing A, Marra G, Brinkmeier ML, Camper SA, Davis SW, Ho YY. TIME-CoExpress: Temporal trajectory modeling of dynamic gene co-expression patterns using single-cell transcriptomics data. <i>BMC Bioinformatics</i>, accepted.'
 ---
