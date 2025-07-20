@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi I'm Anderson, a 4th year PhD student at the University of South Carolina, where I work in Dr. Yen-Yi Ho's lab developing methods for differential co-expression analysis in single-cell RNAseq data. 
+Hi I'm Anderson, a 5th year statistics PhD student at the University of South Carolina where I work under the supervision of Dr. Yen-Yi Ho developing methods for differential co-expression analysis in genomics.
 
-Specifically, I am interested in modeling how gene-gene correlation changes within a cell depending on covariates such as spatial location, cell type, and methylation level. In future work, I wish to explore how different cell types communicate with each other using ligands and receptors to regulate cellular processes within a tissue.
+My research interests include computational biology, spatial statistics, and joint dependence modeling, with applications in genomics and actuarial science. Additionally, I enjoy cross-disciplinary collaboration and developing open-source statistical software tools. 
 
-Before attending graduate school, I was in the operations management leadership program at General Electric.
