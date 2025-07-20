@@ -46,7 +46,7 @@ layout: default
           </p>
         {% elsif page.venue and page.date %}
           {% if page.venue contains "(accepted)" %}
-            <p>Accepted by <i>{{ page.venue | replace: " (accepted)", "" }}</i>, {{ page.date | date: "%Y" }}</p>
+            <p>To appear in <i>{{ post.venue | replace: " (accepted)", "" }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}+</p>
           {% else %}
             <p>Published in <i>{{ page.venue }}</i>, {{ page.date | date: "%Y" }}</p>
           {% endif %}
