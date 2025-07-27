@@ -1,7 +1,7 @@
 ---
 title: scCOSMiX
 date: 2025-05-01
-external_link: https://github.com/abussing/scCOSMiX
+external_link: https://github.com/YenYiHo-Lab/scCOSMiX
 # tags:
 #    - GitHub
 #    - R
