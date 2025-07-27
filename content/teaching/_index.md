@@ -3,21 +3,20 @@ title: Teaching
 summary: My courses
 type: landing
 
-cascade:
-  - _target:
-      kind: page
-    params:
-      show_breadcrumb: true
-
 sections:
-  - block: collection
-    id: teaching
+  - block: markdown
     content:
       title: Teaching
-      filters:
-        folders:
-          - teaching
-    design:
-      view: article-grid
-      columns: 2
+      text: |
+
+        | Course                        | Semester(s)                         | Institution                  |
+        |------------------------------|-------------------------------------|------------------------------|
+        | Elementary Statistics         | Fall 2022, 2024, 2025<br> Spring 2024, 2025 | UofSC | 
+        | Data Analysis II (TA)        | Spring 2023                         | UofSC |
+        | Precalculus II               | Fall 2020, Spring 2021              | UPR    |
+
+        📺 YouTube playlist for Precalculus II: [Link](https://www.youtube.com/playlist?list=PL9z8gr5IRHKKX4RgvmOLOVXSKlH3sbteQ)
+
+
 ---
+

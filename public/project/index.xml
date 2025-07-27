@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/project/</link>
+      <atom:link href="http://localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Projects</title>
+      <link>http://localhost:1313/project/</link>
+    </image>
+    
+    <item>
+      <title>scCOSMiX</title>
+      <link>http://localhost:1313/project/sccosmix/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/sccosmix/</guid>
+      <description>&lt;p&gt;R package for scCOSMiX method.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>TIME-CoExpress</title>
+      <link>http://localhost:1313/project/time-coexpress/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/time-coexpress/</guid>
+      <description>&lt;p&gt;R package for TIME-CoExpress method.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>scDECO</title>
+      <link>http://localhost:1313/project/scdeco/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/scdeco/</guid>
+      <description>&lt;p&gt;R package for two different Bayesian models of differential coexpression.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>American Options Pricer</title>
+      <link>http://localhost:1313/project/options_pricer/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/options_pricer/</guid>
+      <description>&lt;p&gt;python implementation of three American options pricing methods.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Stock Backtester</title>
+      <link>http://localhost:1313/project/stock_strategy/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/stock_strategy/</guid>
+      <description>&lt;p&gt;python package for backtesting rule-based stock trading strategies.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

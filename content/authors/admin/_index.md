@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Anderson Bussing
 
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# # Name pronunciation (optional)
+# name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Anderson
+last_name: Bussing
 
-# Status emoji
-status:
-  icon: ☕️
+# # Status emoji
+# status:
+#   icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,40 +20,37 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Statistics PhD Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: University of South Carolina
+    # url: https://openai.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:abussing@email.sc.edu'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://github.com/abussing
+    label: Github
+
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computational Biology
+  - Spatial Statistics
+  - Semi-parametric Inference
+  - High Dimensional Data
+  - Applications in Machine Learning
+
+
+
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: PhD Statistics (2026)
+    institution: University of South Carolina
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -61,8 +58,8 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: BS Pure Mathematics
+    institution: University of Texas
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -72,8 +69,8 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: BS Mechanical Engineering
+    institution: University of Texas
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -183,4 +180,6 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a 5th year PhD student at the University of South Carolina, where I work under the supervision of Dr. Yen-Yi Ho developing methods for gene co-expression analysis.
+
+Broadly, I am interested in computational biology, joint dependence modeling, and spatial statistics, with an emphasis on creating useful open-source software tools. Beyond my work in genomics, I also engage in interdisciplinary research with collaborators from biology, insurance, and computer science.
