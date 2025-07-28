@@ -1,5 +1,5 @@
 ---
-title: "scCOSMiX: A Mixed-Effects Framework for Differential Coexpression and Transcriptional Interactions Modeling in Single-Cell RNA-Seq."
+title: "scCOSMiX: A Mixed-Effects Framework for Differential Coexpression and Transcriptional Interactions Modeling in Single-Cell RNA-Seq"
 authors:
 - admin
 - Giampiero Marra

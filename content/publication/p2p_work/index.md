@@ -1,5 +1,5 @@
 ---
-title: "A Risk Sharing Rule for Peer-to-peer (P2P) Insurance for Hail Losses via Conditional Expectation."
+title: "A Risk Sharing Rule for Peer-to-peer (P2P) Insurance for Hail Losses via Conditional Expectation"
 authors:
 - Jake Yizhou Cai
 - admin

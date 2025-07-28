@@ -1,5 +1,5 @@
 ---
-title: "Smoothing parameter selection criteria for penalized likelihood inference in semiparametric simultaneous joint equation models with correlated random effects,"
+title: "Smoothing parameter selection criteria for penalized likelihood inference in semiparametric simultaneous joint equation models with correlated random effects"
 authors:
 - admin
 - Giampiero Marra

@@ -1,5 +1,5 @@
 ---
-title: "TIME-CoExpress: Temporal Trajectory Modeling of Dynamic Gene Co-expression Patterns Using Single-Cell Transcriptomics Data."
+title: "TIME-CoExpress: Temporal Trajectory Modeling of Dynamic Gene Co-expression Patterns Using Single-Cell Transcriptomics Data"
 authors:
 - Shuyi Yang
 - admin
