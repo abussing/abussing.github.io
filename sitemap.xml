@@ -2,163 +2,163 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://abussing.github.io/event/example/</loc>
+    <loc>http://localhost:1313/event/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://abussing.github.io/event/</loc>
+    <loc>http://localhost:1313/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://abussing.github.io/publication/p2p_work/</loc>
+    <loc>http://localhost:1313/publication/p2p_work/</loc>
     <lastmod>2026-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://abussing.github.io/publication_types/article-journal/</loc>
+    <loc>http://localhost:1313/publication_types/article-journal/</loc>
     <lastmod>2026-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://abussing.github.io/publication_types/</loc>
+    <loc>http://localhost:1313/publication_types/</loc>
     <lastmod>2026-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://abussing.github.io/publication/</loc>
+    <loc>http://localhost:1313/publication/</loc>
     <lastmod>2026-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://abussing.github.io/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2026-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://abussing.github.io/tags/working-paper/</loc>
+    <loc>http://localhost:1313/tags/working-paper/</loc>
     <lastmod>2026-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://abussing.github.io/publication/factr_crosscov/</loc>
+    <loc>http://localhost:1313/publication/factr_crosscov/</loc>
     <lastmod>2026-11-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://abussing.github.io/tags/published/</loc>
-    <lastmod>2026-09-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://abussing.github.io/publication/sccosmix/</loc>
-    <lastmod>2026-09-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://abussing.github.io/publication/smoothing_crit/</loc>
+    <loc>http://localhost:1313/publication/smoothing_crit/</loc>
     <lastmod>2026-01-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://abussing.github.io/publication/time-coexpress/</loc>
+    <loc>http://localhost:1313/tags/published/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication/sccosmix/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication/time-coexpress/</loc>
     <lastmod>2025-07-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://abussing.github.io/project/</loc>
+    <loc>http://localhost:1313/project/</loc>
     <lastmod>2025-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://abussing.github.io/project/sccosmix/</loc>
+    <loc>http://localhost:1313/project/sccosmix/</loc>
     <lastmod>2025-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://abussing.github.io/project/time-coexpress/</loc>
+    <loc>http://localhost:1313/project/time-coexpress/</loc>
     <lastmod>2024-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://abussing.github.io/projects/</loc>
+    <loc>http://localhost:1313/projects/</loc>
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://abussing.github.io/project/scdeco/</loc>
+    <loc>http://localhost:1313/project/scdeco/</loc>
     <lastmod>2024-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://abussing.github.io/post/get-started/</loc>
+    <loc>http://localhost:1313/post/get-started/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://abussing.github.io/tags/academic/</loc>
+    <loc>http://localhost:1313/tags/academic/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://abussing.github.io/post/</loc>
+    <loc>http://localhost:1313/post/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://abussing.github.io/tags/hugo-blox/</loc>
+    <loc>http://localhost:1313/tags/hugo-blox/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://abussing.github.io/tags/markdown/</loc>
+    <loc>http://localhost:1313/tags/markdown/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://abussing.github.io/tags/second-brain/</loc>
+    <loc>http://localhost:1313/tags/second-brain/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://abussing.github.io/post/second-brain/</loc>
+    <loc>http://localhost:1313/post/second-brain/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://abussing.github.io/post/data-visualization/</loc>
+    <loc>http://localhost:1313/post/data-visualization/</loc>
     <lastmod>2023-10-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://abussing.github.io/tags/hugo/</loc>
+    <loc>http://localhost:1313/tags/hugo/</loc>
     <lastmod>2023-10-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://abussing.github.io/post/teach-courses/</loc>
+    <loc>http://localhost:1313/post/teach-courses/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://abussing.github.io/tags/hugo-blox-builder/</loc>
+    <loc>http://localhost:1313/tags/hugo-blox-builder/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://abussing.github.io/tags/javascript/</loc>
+    <loc>http://localhost:1313/tags/javascript/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://abussing.github.io/teaching/mate3172/</loc>
+    <loc>http://localhost:1313/teaching/mate3172/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://abussing.github.io/teaching/stat201/</loc>
+    <loc>http://localhost:1313/teaching/stat201/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://abussing.github.io/publications/</loc>
+    <loc>http://localhost:1313/publications/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://abussing.github.io/tags/python/</loc>
+    <loc>http://localhost:1313/tags/python/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://abussing.github.io/teaching/</loc>
+    <loc>http://localhost:1313/teaching/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://abussing.github.io/post/project-management/</loc>
+    <loc>http://localhost:1313/post/project-management/</loc>
     <lastmod>2023-10-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://abussing.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://abussing.github.io/project/options_pricer/</loc>
+    <loc>http://localhost:1313/project/options_pricer/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://abussing.github.io/project/stock_strategy/</loc>
+    <loc>http://localhost:1313/project/stock_strategy/</loc>
     <lastmod>2021-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://abussing.github.io/cv/</loc>
+    <loc>http://localhost:1313/cv/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
