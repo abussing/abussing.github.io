@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Anderson Bussing&#39;s Website</title>
-    <link>https://abussing.github.io/project/</link>
-      <atom:link href="https://abussing.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/project/</link>
+      <atom:link href="http://localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://abussing.github.io/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Projects</title>
-      <link>https://abussing.github.io/project/</link>
+      <link>http://localhost:1313/project/</link>
     </image>
     
     <item>
       <title>scCOSMiX</title>
-      <link>https://abussing.github.io/project/sccosmix/</link>
+      <link>http://localhost:1313/project/sccosmix/</link>
       <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://abussing.github.io/project/sccosmix/</guid>
+      <guid>http://localhost:1313/project/sccosmix/</guid>
       <description>&lt;p&gt;R package for scCOSMiX method.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>TIME-CoExpress</title>
-      <link>https://abussing.github.io/project/time-coexpress/</link>
+      <link>http://localhost:1313/project/time-coexpress/</link>
       <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://abussing.github.io/project/time-coexpress/</guid>
+      <guid>http://localhost:1313/project/time-coexpress/</guid>
       <description>&lt;p&gt;R package for TIME-CoExpress method.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>scDECO</title>
-      <link>https://abussing.github.io/project/scdeco/</link>
+      <link>http://localhost:1313/project/scdeco/</link>
       <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://abussing.github.io/project/scdeco/</guid>
+      <guid>http://localhost:1313/project/scdeco/</guid>
       <description>&lt;p&gt;R package for two different Bayesian models of differential coexpression.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>American Options Pricer</title>
-      <link>https://abussing.github.io/project/options_pricer/</link>
+      <link>http://localhost:1313/project/options_pricer/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://abussing.github.io/project/options_pricer/</guid>
+      <guid>http://localhost:1313/project/options_pricer/</guid>
       <description>&lt;p&gt;python implementation of three American options pricing methods.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Stock Backtester</title>
-      <link>https://abussing.github.io/project/stock_strategy/</link>
+      <link>http://localhost:1313/project/stock_strategy/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://abussing.github.io/project/stock_strategy/</guid>
+      <guid>http://localhost:1313/project/stock_strategy/</guid>
       <description>&lt;p&gt;python package for backtesting rule-based stock trading strategies.&lt;/p&gt;</description>
     </item>
     
