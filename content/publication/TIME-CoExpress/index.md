@@ -11,6 +11,10 @@ authors:
 # date: "2015-09-01T00:00:00Z"
 doi: "10.1186/s12859-025-06218-w"
 
+
+tags:
+  - published
+
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
 
