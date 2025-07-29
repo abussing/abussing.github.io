@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Published | Anderson Bussing&#39;s Website</title>
-    <link>http://localhost:1313/tags/published/</link>
-      <atom:link href="http://localhost:1313/tags/published/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://abussing.github.io/tags/published/</link>
+      <atom:link href="https://abussing.github.io/tags/published/index.xml" rel="self" type="application/rss+xml" />
     <description>Published</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>https://abussing.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Published</title>
-      <link>http://localhost:1313/tags/published/</link>
+      <link>https://abussing.github.io/tags/published/</link>
     </image>
     
     <item>
-      <title>scCOSMiX: A Mixed-Effects Framework for Differential Coexpression and Transcriptional Interactions Modeling in Single-Cell RNA-Seq.</title>
-      <link>http://localhost:1313/publication/sccosmix/</link>
+      <title>scCOSMiX: A Mixed-Effects Framework for Differential Coexpression and Transcriptional Interactions Modeling in Single-Cell RNA-Seq</title>
+      <link>https://abussing.github.io/publication/sccosmix/</link>
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/sccosmix/</guid>
+      <guid>https://abussing.github.io/publication/sccosmix/</guid>
       <description>&lt;!-- 
 
 
@@ -54,10 +54,10 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     </item>
     
     <item>
-      <title>TIME-CoExpress: Temporal Trajectory Modeling of Dynamic Gene Co-expression Patterns Using Single-Cell Transcriptomics Data.</title>
-      <link>http://localhost:1313/publication/time-coexpress/</link>
+      <title>TIME-CoExpress: Temporal Trajectory Modeling of Dynamic Gene Co-expression Patterns Using Single-Cell Transcriptomics Data</title>
+      <link>https://abussing.github.io/publication/time-coexpress/</link>
       <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/time-coexpress/</guid>
+      <guid>https://abussing.github.io/publication/time-coexpress/</guid>
       <description>&lt;!-- 
 
 

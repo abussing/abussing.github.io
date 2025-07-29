@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Working-Paper | Anderson Bussing&#39;s Website</title>
-    <link>http://localhost:1313/tags/working-paper/</link>
-      <atom:link href="http://localhost:1313/tags/working-paper/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://abussing.github.io/tags/working-paper/</link>
+      <atom:link href="https://abussing.github.io/tags/working-paper/index.xml" rel="self" type="application/rss+xml" />
     <description>Working-Paper</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>https://abussing.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Working-Paper</title>
-      <link>http://localhost:1313/tags/working-paper/</link>
+      <link>https://abussing.github.io/tags/working-paper/</link>
     </image>
     
     <item>
-      <title>A Risk Sharing Rule for Peer-to-peer (P2P) Insurance for Hail Losses via Conditional Expectation.</title>
-      <link>http://localhost:1313/publication/p2p_work/</link>
+      <title>A Risk Sharing Rule for Peer-to-peer (P2P) Insurance for Hail Losses via Conditional Expectation</title>
+      <link>https://abussing.github.io/publication/p2p_work/</link>
       <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/p2p_work/</guid>
+      <guid>https://abussing.github.io/publication/p2p_work/</guid>
       <description>&lt;!-- 
 
 
@@ -55,9 +55,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Modeling Dynamic Cross-Correlation in Spatial Transcriptomic Data</title>
-      <link>http://localhost:1313/publication/factr_crosscov/</link>
+      <link>https://abussing.github.io/publication/factr_crosscov/</link>
       <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/factr_crosscov/</guid>
+      <guid>https://abussing.github.io/publication/factr_crosscov/</guid>
       <description>&lt;!-- 
 
 
@@ -95,10 +95,10 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     </item>
     
     <item>
-      <title>Smoothing parameter selection criteria for penalized likelihood inference in semiparametric simultaneous joint equation models with correlated random effects,</title>
-      <link>http://localhost:1313/publication/smoothing_crit/</link>
+      <title>Smoothing parameter selection criteria for penalized likelihood inference in semiparametric simultaneous joint equation models with correlated random effects</title>
+      <link>https://abussing.github.io/publication/smoothing_crit/</link>
       <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/smoothing_crit/</guid>
+      <guid>https://abussing.github.io/publication/smoothing_crit/</guid>
       <description>&lt;!-- 
 
 

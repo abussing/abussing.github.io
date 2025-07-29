@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Anderson Bussing&#39;s Website</title>
-    <link>http://localhost:1313/</link>
-      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://abussing.github.io/</link>
+      <atom:link href="https://abussing.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Anderson Bussing&#39;s Website</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>https://abussing.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Anderson Bussing&#39;s Website</title>
-      <link>http://localhost:1313/</link>
+      <link>https://abussing.github.io/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>http://localhost:1313/event/example/</link>
+      <link>https://abussing.github.io/event/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/example/</guid>
+      <guid>https://abussing.github.io/event/example/</guid>
       <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
@@ -35,9 +35,9 @@
     
     <item>
       <title>A Risk Sharing Rule for Peer-to-peer (P2P) Insurance for Hail Losses via Conditional Expectation</title>
-      <link>http://localhost:1313/publication/p2p_work/</link>
+      <link>https://abussing.github.io/publication/p2p_work/</link>
       <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/p2p_work/</guid>
+      <guid>https://abussing.github.io/publication/p2p_work/</guid>
       <description>&lt;!-- 
 
 
@@ -76,9 +76,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Modeling Dynamic Cross-Correlation in Spatial Transcriptomic Data</title>
-      <link>http://localhost:1313/publication/factr_crosscov/</link>
+      <link>https://abussing.github.io/publication/factr_crosscov/</link>
       <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/factr_crosscov/</guid>
+      <guid>https://abussing.github.io/publication/factr_crosscov/</guid>
       <description>&lt;!-- 
 
 
@@ -117,9 +117,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>scCOSMiX: A Mixed-Effects Framework for Differential Coexpression and Transcriptional Interactions Modeling in Single-Cell RNA-Seq</title>
-      <link>http://localhost:1313/publication/sccosmix/</link>
+      <link>https://abussing.github.io/publication/sccosmix/</link>
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/sccosmix/</guid>
+      <guid>https://abussing.github.io/publication/sccosmix/</guid>
       <description>&lt;!-- 
 
 
@@ -158,9 +158,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>TIME-CoExpress: Temporal Trajectory Modeling of Dynamic Gene Co-expression Patterns Using Single-Cell Transcriptomics Data</title>
-      <link>http://localhost:1313/publication/time-coexpress/</link>
+      <link>https://abussing.github.io/publication/time-coexpress/</link>
       <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/time-coexpress/</guid>
+      <guid>https://abussing.github.io/publication/time-coexpress/</guid>
       <description>&lt;!-- 
 
 
@@ -199,9 +199,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Smoothing parameter selection criteria for penalized likelihood inference in semiparametric simultaneous joint equation models with correlated random effects</title>
-      <link>http://localhost:1313/publication/smoothing_crit/</link>
+      <link>https://abussing.github.io/publication/smoothing_crit/</link>
       <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/smoothing_crit/</guid>
+      <guid>https://abussing.github.io/publication/smoothing_crit/</guid>
       <description>&lt;!-- 
 
 
@@ -240,41 +240,41 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>scCOSMiX</title>
-      <link>http://localhost:1313/project/sccosmix/</link>
+      <link>https://abussing.github.io/project/sccosmix/</link>
       <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/sccosmix/</guid>
+      <guid>https://abussing.github.io/project/sccosmix/</guid>
       <description>&lt;p&gt;R package for scCOSMiX method.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>TIME-CoExpress</title>
-      <link>http://localhost:1313/project/time-coexpress/</link>
+      <link>https://abussing.github.io/project/time-coexpress/</link>
       <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/time-coexpress/</guid>
+      <guid>https://abussing.github.io/project/time-coexpress/</guid>
       <description>&lt;p&gt;R package for TIME-CoExpress method.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>http://localhost:1313/projects/</link>
+      <link>https://abussing.github.io/projects/</link>
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/</guid>
+      <guid>https://abussing.github.io/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>scDECO</title>
-      <link>http://localhost:1313/project/scdeco/</link>
+      <link>https://abussing.github.io/project/scdeco/</link>
       <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/scdeco/</guid>
+      <guid>https://abussing.github.io/project/scdeco/</guid>
       <description>&lt;p&gt;R package for two different Bayesian models of differential coexpression.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>🎉 Easily create your own simple yet highly customizable blog</title>
-      <link>http://localhost:1313/post/get-started/</link>
+      <link>https://abussing.github.io/post/get-started/</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/get-started/</guid>
+      <guid>https://abussing.github.io/post/get-started/</guid>
       <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
 
 
@@ -358,9 +358,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>🧠 Sharpen your thinking with a second brain</title>
-      <link>http://localhost:1313/post/second-brain/</link>
+      <link>https://abussing.github.io/post/second-brain/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/second-brain/</guid>
+      <guid>https://abussing.github.io/post/second-brain/</guid>
       <description>&lt;p&gt;Create a personal knowledge base and share your knowledge with your peers.&lt;/p&gt;
 &lt;p&gt;Hugo Blox web framework empowers you with one of the most flexible note-taking capabilities out there.&lt;/p&gt;
 &lt;p&gt;Create a powerful knowledge base that works on top of a local folder of plain text Markdown files.&lt;/p&gt;
@@ -470,9 +470,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>📈 Communicate your results effectively with the best data visualizations</title>
-      <link>http://localhost:1313/post/data-visualization/</link>
+      <link>https://abussing.github.io/post/data-visualization/</link>
       <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/data-visualization/</guid>
+      <guid>https://abussing.github.io/post/data-visualization/</guid>
       <description>&lt;p&gt;Hugo Blox is designed to give technical content creators a seamless experience. You can focus on the content and Hugo Blox handles the rest.&lt;/p&gt;
 &lt;p&gt;Use popular tools such as Plotly, Mermaid, and data frames.&lt;/p&gt;
 &lt;h2 id=&#34;charts&#34;&gt;Charts&lt;/h2&gt;
@@ -483,7 +483,7 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
 
 
 
-&lt;div id=&#34;chart-831274965&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-348957612&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -501,7 +501,7 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-831274965&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-348957612&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -680,9 +680,9 @@ Crash --&gt; [*]
     
     <item>
       <title>👩🏼‍🏫 Teach academic courses</title>
-      <link>http://localhost:1313/post/teach-courses/</link>
+      <link>https://abussing.github.io/post/teach-courses/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/teach-courses/</guid>
+      <guid>https://abussing.github.io/post/teach-courses/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
@@ -735,7 +735,7 @@ Crash --&gt; [*]
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;http://localhost:1313/post/teach-courses/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;https://abussing.github.io/post/teach-courses/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
@@ -794,9 +794,9 @@ data.head()
     
     <item>
       <title>Learn JavaScript</title>
-      <link>http://localhost:1313/teaching/mate3172/</link>
+      <link>https://abussing.github.io/teaching/mate3172/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/mate3172/</guid>
+      <guid>https://abussing.github.io/teaching/mate3172/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
@@ -920,9 +920,9 @@ data.head()
     
     <item>
       <title>Learn Python</title>
-      <link>http://localhost:1313/teaching/stat201/</link>
+      <link>https://abussing.github.io/teaching/stat201/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/stat201/</guid>
+      <guid>https://abussing.github.io/teaching/stat201/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
@@ -969,7 +969,7 @@ data.head()
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;http://localhost:1313/teaching/stat201/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;https://abussing.github.io/teaching/stat201/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
@@ -1046,17 +1046,17 @@ data.head()
     
     <item>
       <title>Publications</title>
-      <link>http://localhost:1313/publications/</link>
+      <link>https://abussing.github.io/publications/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/</guid>
+      <guid>https://abussing.github.io/publications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>✅ Manage your projects</title>
-      <link>http://localhost:1313/post/project-management/</link>
+      <link>https://abussing.github.io/post/project-management/</link>
       <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/project-management/</guid>
+      <guid>https://abussing.github.io/post/project-management/</guid>
       <description>&lt;p&gt;Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!&lt;/p&gt;
 &lt;h2 id=&#34;ideation&#34;&gt;Ideation&lt;/h2&gt;
 &lt;p&gt;Hugo Blox supports a Markdown extension for mindmaps.&lt;/p&gt;
@@ -1129,17 +1129,17 @@ Parallel 4   :         des6, after des4, 1d
     
     <item>
       <title>American Options Pricer</title>
-      <link>http://localhost:1313/project/options_pricer/</link>
+      <link>https://abussing.github.io/project/options_pricer/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/options_pricer/</guid>
+      <guid>https://abussing.github.io/project/options_pricer/</guid>
       <description>&lt;p&gt;python implementation of three American options pricing methods.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Stock Backtester</title>
-      <link>http://localhost:1313/project/stock_strategy/</link>
+      <link>https://abussing.github.io/project/stock_strategy/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/stock_strategy/</guid>
+      <guid>https://abussing.github.io/project/stock_strategy/</guid>
       <description>&lt;p&gt;python package for backtesting rule-based stock trading strategies.&lt;/p&gt;</description>
     </item>
     
